@@ -1,0 +1,182 @@
+# EML Book Authoring Plan (2026)
+
+Purpose: Build the 2026 book on modern education through the lens of EML, using weekly notebook synthesis and an explicit learning-journal cycle that evolves and directs thought.
+Aim: Master my own learning through an iterative cycle that rewrites, analyzes, extends, and evaluates handwritten thought, feeding the next round of writing.
+
+## 1. North Star and Scope
+
+- Book is a model in book form: calm, exact, humane, visual-first with reflection.
+- Core lens: EML as a meta-language for thinking, learning, teaching.
+- The learning-journal cycle is the primary engine that generates, tests, and refines the book's ideas.
+- The book is organized into four parts:
+  - Part I: Orientation (cognitive colonization, canon, temporal engineering).
+  - Part II: Grammar (EML symbols, read-write cycles, scaffolds, substrates).
+  - Part III: Circuits in Practice (classroom scenes, AI Teacher Exhibit, staff routines).
+  - Part IV: Futures (agentic learning systems, human-AI ecology).
+
+## 2. Learning Journal Cycle (Core Process)
+
+Goal: turn handwritten notes into a scaffolded reading platform that feeds the next writing cycle.
+
+Default engine: Steps 1–3 (Polished Notes, Analytical Study, Academic Essay). Use Steps 4–6 selectively when a topic is ready to be translated, distilled, or tested. Step 7 is forward-casting when explicitly requested.
+
+Step 1: Polished notes
+- Input: images of handwritten notes (first draft).
+- Output: rewritten notes with corrected language, plus Date, Title, and a summary paragraph before the body; preserve and highlight distinctive phrases, metaphors, and terms that feel "in my own voice".
+
+Step 2: Analytical study
+- Input: the handwritten notes and the Step 1 response.
+- Output: structured, detailed analysis with Date, a summary outline, and a clear essay structure.
+
+Step 3: Academic essay (extension)
+- Input: Steps 1 and 2.
+- Output: an academic essay that pushes ideas to the next level, extending directions for the next writing cycle, deliberately reusing and sharpening the evolving personal lexicon.
+
+Step 4: Study guide (beginner reader)
+- Input: Steps 1-3.
+- Output: a beginner-friendly guide that explains key concepts and the evolving process.
+
+Step 5: Key ideas with commentary
+- Input: Steps 1-4, weighted to Step 3.
+- Output: a list of key ideas with commentary and implications, including emerging terms and stable definitions that belong to the project’s own vocabulary.
+
+Step 6: Evaluation
+- 6.1: Write 4 creative questions to expand the discussion.
+- 6.2: Evaluate handwritten answers with feedback and next-step suggestions.
+
+Step 7: Cast ahead (5-day forward projection)
+- Purpose: extend the current line of thought forward by five days based on the full discussion context.
+- Output: five entries (Day +1 to Day +5), each with Date, Prediction, and Rationale.
+
+### Weekly intake template & evaluation tracking
+- Use `05-Assets/Templates/Weekly-Intake-Template.md` every week to document Steps 0-11, including section 9 asset mapping, section 10 style notes, and the section 11 bridge checklist.
+- Step 5 entries should populate the key idea table with explicit Book Part and EML layer columns so portable claims can drop directly into outlines, diagrams, or lexicon entries.
+- Step 6 should include four creative questions plus a short evaluation table that names what worked, what is missing, and the next refinement before the next cycle.
+- Step 7 should provide a five-day cast ahead (Date, Prediction, Rationale) when explicitly requested.
+
+Cycle rules:
+- Each step is a distinct response and is requested explicitly.
+- Step 1 and Step 2 must strictly align with the handwriting; Steps 3-7 extend while remaining grounded.
+- The final outputs serve as reading material that informs the next handwritten entry.
+
+Voice and lexicon focus across the cycle:
+- Treat the handwritten pages as the root of tone and word-choice.
+- In each step, notice and retain recurring phrases, metaphors, and formulations that feel characteristically mine.
+- Allow definitions and key terms to evolve; track changes rather than forcing early standardisation.
+
+## 3. Inputs and Source Control
+
+Primary inputs to synthesize:
+- Handwritten note images (weekly or ad hoc).
+- `03-Working/EML-Field-Journal-2026-01-17.md` (current structured synthesis).
+- `01-Source/Reference/What is EML.txt` (core EML definition and book vision).
+- `01-Source/Rough-Notes/rough-notes-journal.txt` (raw notebook material).
+- Weekly notebook entries (new content across 2026).
+
+Create and keep a simple intake index:
+- A weekly entry folder (date-stamped).
+- Each entry includes: scans or typed notes, Step outputs (1-7 as needed), a 1-page summary, and 3-5 tagged concepts.
+- Tags map directly to book parts and EML layers (structural, cognitive-temporal, agentic).
+- Treat this intake flow as an intake-digestion-redistribution architecture: use a low-friction intake membrane (WhatsApp or similar), let AI digest fragments centrally, and keep notebooks generative so they can feed later cycles (see `05-Assets/Readings/Learning-as-Inscriptional-Emergence.md`).
+
+## 4. Weekly Workflow (Repeat Through 2026)
+
+Goal: convert lived notebook writing into book-ready assets.
+
+1) Capture
+- Write in notebooks as normal.
+- Take photos or transcribe key pages weekly.
+
+2) Cycle
+- Run Step 1 and Step 2 for each new handwritten batch.
+- Use Steps 3-6 when a topic is ready to be extended or tested; use Step 7 only when requested.
+
+2.5) Ingestion
+- Reserve the weekend for digestion: alternate listening, rereading, and low-pressure writing to condense the week into keywords, scaffolds, and tokens before the next cycle (see `05-Assets/Readings/Weekend-Ingestion-Layer.md`).
+
+3) Distill
+- Create a one-page synthesis: key claim, story, diagram idea, and 2-3 quotes.
+- Tag each synthesis with book part and EML layer.
+
+4) Extract
+- Promote any of the following to assets:
+  - Diagram sketches (nodes, flows, constraints).
+  - 1-2 page "reading" passages.
+  - Example classroom circuit or routine.
+
+5) Feed the book
+- Update the Part outline with new subsections or evidence.
+- Add items to a growing diagram library and glossary.
+
+## 5. Monthly Synthesis (End of Each Month)
+
+Purpose: keep the narrative coherent while the source material grows.
+
+- Write a 2-3 page monthly synthesis per book part (if there is new material).
+- Identify which content is stable enough to be drafted into chapters.
+- Review gaps: which parts need fresh notebook focus next month.
+
+## 6. Quarterly Milestones (2026)
+
+Q1 (Jan-Mar): Orientation and book frame
+- Finalize book structure and voice guidelines.
+- Draft Part I core chapters using the field journal.
+- Build the initial symbol set (agents, flows, constraints, time blocks).
+
+Q2 (Apr-Jun): Grammar and core models
+- Draft Part II chapters.
+- Develop 5-7 canonical diagrams (read-write cycle, temporal scaffolds, dominant voice, etc).
+- Build the glossary and minimal visual grammar style guide.
+
+Q3 (Jul-Sep): Circuits in practice
+- Draft Part III chapters, especially AI Teacher Exhibit and staff routines.
+- Produce reusable classroom circuits and case studies.
+- Prototype the left-page visual / right-page reflection rhythm.
+
+Q4 (Oct-Dec): Futures and integration
+- Draft Part IV chapters.
+- Integrate all parts, refine transitions, and align visual language.
+- Assemble a full manuscript draft and finalize diagram library.
+
+## 7. Chapter Development Pipeline
+
+Use the same pipeline for each chapter:
+- Map: choose 3-5 core ideas and 1-2 diagrams.
+- Draft: write a 3-5 page narrative chunk plus reflection prompts.
+- Test: read aloud for tone and clarity; adjust for "show, not argue".
+- Visualize: add diagram(s) and margin annotations.
+- Revisit: return after 2 weeks for a revision pass.
+
+## 8. Diagram and Visual Language Plan
+
+Visual intent from the EML definition:
+- Black ink line drawings, restrained highlights (blue structure, yellow emergence, green growth).
+- Consistent symbol set for agents, flows, constraints, iterations.
+- Diagrams recur across parts with added resolution.
+
+Asset targets by end of 2026:
+- 12-18 core diagrams that anchor the book.
+- 30 micro-circuits (from the AI Teacher Exhibit stations).
+- 1 visual grammar sheet (symbols and conventions).
+
+## 9. Deliverables and Output Targets
+
+By end of 2026, produce:
+- Full manuscript draft with all four parts.
+- Diagram library with captions and usage notes.
+- 10-15 short readings that can stand alone (handouts or inserts).
+- Finalized symbol set and a consistent layout template.
+
+## 10. Early-Stage Next Actions (Immediate)
+
+1) Create the weekly intake template and start this week.
+2) Extract 5 diagram candidates from the field journal.
+3) Map current field journal sections to the four book parts.
+4) Draft Part I chapter skeletons (headings only) and identify missing evidence.
+5) Draft a reusable Step 1-7 response template for fast iteration.
+
+## 11. Maintenance and Review
+
+- Keep `03-Working/EML-Field-Journal-2026-01-17.md` as the living synthesis file.
+- Maintain a change log of what moves into the book draft.
+- Revisit scope each quarter; adjust the plan without breaking the four-part spine.

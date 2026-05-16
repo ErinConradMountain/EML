@@ -1,0 +1,24 @@
+### USER
+Gestalt shifting
+
+### ASSISTANT
+**Gestalt shifting** is the sudden reorganisation of perception or understanding, where identical information is reinterpreted as a new, coherent whole. It originates from Gestalt psychology, which emphasises that we process patterns and structures before their individual components.
+
+**Core mechanism**  
+Your brain continuously fits ambiguous or complex inputs into familiar mental models. When a subtle cue or missing context clicks, the model ‘flips’. The data remains unchanged, but your interpretation transforms instantly, much like swapping a wide-angle lens for a macro one on the same scene.
+
+**Everyday & psychological examples**
+- *Duck–rabbit illusion:* The ink lines never move, yet your perception jumps between two animals once you notice the ear/beak boundary.
+- *Debugging code:* After hours of tracing errors, spotting a single misnamed variable can make the entire control flow click into place, turning chaos into clarity.
+
+**Relevance to technology & AI**
+- *Human–AI mental models:* Users often first treat generative AI as a predictive text engine. Witnessing it decompose a multi-step problem triggers a gestalt shift: the same system is now perceived as a reasoning partner, altering how it’s deployed and trusted.
+- *Transformer attention:* In large language models, minor prompt adjustments can cause the attention mechanism to latch onto entirely different semantic relationships. The weights haven’t been retrained, yet the model’s ‘focus’ reorganises, producing qualitatively different outputs.
+- *Emergent capabilities:* As models scale, new behaviours (e.g. tool use, self-correction) often appear abruptly rather than gradually. This mirrors gestalt shifting in how researchers reassess system boundaries and safety assumptions.
+
+**Why it matters**
+- *UX & onboarding:* Well-timed hints or visual scaffolding can intentionally trigger positive gestalt shifts, reducing cognitive friction.
+- *AI alignment & safety:* Both humans and models can become locked into suboptimal interpretations. Deliberate perspective nudges (alternative framings, counterfactual prompts) help break fixation.
+- *Research methodology:* Recognising gestalt shifts prevents overclaiming gradual progress when what’s actually occurring is a threshold reorganisation of capability.
+
+If you’d like, I can outline practical techniques for engineering gestalt shifts in AI interfaces, or explore how cognitive reframing parallels prompt-design strategies.
